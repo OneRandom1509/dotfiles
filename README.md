@@ -1,4 +1,4 @@
-My Ricing so far
+My Ricing so far (Arch linux - Hyprland)
 
 Current Config is using:
 1. Hyprland
