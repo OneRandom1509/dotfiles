@@ -34,7 +34,7 @@ I cannot make rofi themes but I took a lot of inspiration from [this repo](https
 
 AGS default config is from [Aylur's dotfiles](https://github.com/Aylur/dotfiles) but with some modifications
 
-###Note:
+### Note:
 Using waybar to get information of disk, memory, cpu so on. AGS is the default bar in this config
 
 Plans:
