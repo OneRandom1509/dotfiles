@@ -12,11 +12,11 @@ Current Config is using:
 9. rofi-lboon-wayland
 
 Other Configs:
-a. Terminal -> `kitty`
-b. Shell -> `zsh (oh my zsh)`
-c. music -> `cmus / spotify (with spicetify)`
-d. Anime -> `ani-cli`
-e. File Manager -> `Dolphin / Superfile` (want to switch to Ranger)
+1. Terminal -> `kitty`
+2. Shell -> `zsh (oh my zsh)`
+3. music -> `cmus / spotify (with spicetify)`
+4. Anime -> `ani-cli`
+5. File Manager -> `Dolphin / Superfile` (want to switch to Ranger)
 
 https://github.com/nots1dd/dotfiles/assets/140317709/51cfdfa6-92a9-4d69-b827-f0211fe8eab4
 ![2024-04-09_18-51-16](https://github.com/nots1dd/dotfiles/assets/140317709/9ac920ed-5459-4df7-8b50-32d2d70e3abc)
