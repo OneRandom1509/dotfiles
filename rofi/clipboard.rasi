@@ -5,7 +5,7 @@ configuration {
     font:                        "SpaceMono Nerd Font 9";
 }
 
-@theme "/home/s1dd/dotfiles/rofi/theme.rasi"
+@theme "/home/onerandom/dotfiles/rofi/theme.rasi"
 
 
 // Main //
@@ -42,7 +42,7 @@ entry {
     padding:                     3em;
     text-color:                  @main-fg;
     background-color:            transparent;
-    background-image:            url("/home/s1dd/wallpapers/walgood.png", width);
+    background-image:            url("/home/onerandom/wallpapers/walgood.png", width);
 }
 
 
